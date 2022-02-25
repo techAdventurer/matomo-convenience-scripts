@@ -1,3 +1,2 @@
-# matomo-backup-script
-
-Script de backup pour l'instance Matomo de Strobe.
+# matomo-convenience-scripts
+Convenience scripts for Matomo
